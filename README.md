@@ -2,6 +2,6 @@
 
 ### Understanding Airbnb rental pricing in NYC
 
-- [Proposal Document](https://docs.google.com/document/d/1cvkhKN8KDncIiSZHsmxvJry-OKQko8pTp_4g9kH_eIc/edit?usp=sharing)
+- Datasets can be found [here](https://drive.google.com/drive/folders/184jFA3tHvW9F9uQiXUOfJegZUUpDv6q9?usp=sharing).
 
 ---
