@@ -6,3 +6,7 @@
 - Spreadsheet containing regression results: [Link](https://docs.google.com/spreadsheets/d/123Rfm6knXDzfaRcoRZjjw5NqcQ6OQv_EqcgzqB9-rKM/edit?usp=sharing)
 
 ---
+
+- Check out [LoClus](https://github.com/sayarghoshroy/LoClus) for some interesting work on explainable location clustering based on true mutual geodesic distances.
+
+---
